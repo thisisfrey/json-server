@@ -1,6 +1,6 @@
 # JSON Server
 
-JSON server is running [here](`https://my-json-server.typicode.com/thisisfrey/json-server`)
+JSON server is running [here](https://my-json-server.typicode.com/thisisfrey/json-server)
 
 ## How to use
 1. Create a repository on GitHub
